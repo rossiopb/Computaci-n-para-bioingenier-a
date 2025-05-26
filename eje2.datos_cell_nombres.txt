@@ -1,0 +1,500 @@
+59173299643:100009395657552:Celia:Mamani:female:::Engaged::5/30/2019 12:00:00 AM::10/02
+59173299642:100027251170253:Victor:Velasco:male:::::8/13/2018 12:00:00 AM::
+59173299640:100007054715604:Miriam:Ortiz de Pérez:female:La Paz, Bolivia:La Paz, Bolivia:::3/28/2019 12:00:00 AM::
+59173299637:100006548268658:Leo:Vacadias:male:La Paz, Bolivia:::Trabajo las 24 hrs en tu corazon:5/20/2019 12:00:00 AM::
+59173299636:1450735276:Fer:Alanoca::::::6/28/2019 12:00:00 AM:ocholetras7@hotmail.com:05/30
+59173299629:100001230009841:Carmen:Mendoza:female:::::10/22/2015 12:00:00 AM::
+59173299627:100008782987561:Abram:Ticona Ayala:male:Ciudad La Paz, La Paz, Bolivia:La Paz, Bolivia:::1/1/2015 12:00:00 AM::
+59173299625:100027992291999:Sabina:Delgado:female:::::1/1/0001 12:00:00 AM::
+59173299624:100037161533106:Fernanda:Qm::::::1/1/0001 12:00:00 AM::
+59173299623:100037407232428:Luis:Beymar::::::1/1/0001 12:00:00 AM::
+59173299620:1435153518:Saul Jhonatan:Vedia Zabala:male:La Paz, Bolivia:La Paz, Bolivia:Single::6/26/2019 12:00:00 AM::
+59173299617:100012404173932:Anita:Astorga:female:La Paz, Bolivia:La Paz, Bolivia::Self-Employed:7/13/2019 12:00:00 AM::
+59173299616:100003715205181:Jhomaly Stefanny:Gutierres:female:La Paz, Bolivia::::5/25/2019 12:00:00 AM::
+59173299615:100011000746007:Alicia:Pachacuti:female:Yunguyo, La Paz, Bolivia::Married::5/26/2019 12:00:00 AM::
+59173299613:100034723756429:Martha:Marin:female:::::1/1/0001 12:00:00 AM::
+59173299606:100001366616204:Roly:Chambi:male:La Paz, Bolivia:La Paz, Bolivia:Engaged::5/16/2019 12:00:00 AM::02/20
+59173299604:100035401116096:Crisstian:Aleejandro:male:La Paz, Bolivia:Santiago, Chile::Facebook:6/20/2019 12:00:00 AM::
+59173299603:100029398700845:Raul:Mamani:male:::::12/23/2018 12:00:00 AM::
+59173299601:100010291337695:Ximena:Mendoza:female:::::4/25/2019 12:00:00 AM::
+59173299599:100023775944620:Dolores:Quispe:female:::::1/2/2018 12:00:00 AM::
+59173299596:100036966842915:Yhordan:Mamani::::::1/1/0001 12:00:00 AM::
+59173299594:100026551472605:Antonio:Perez:male:::::1/1/0001 12:00:00 AM::
+59173299590:100028498104367:Francisco:Castañon:male:::::1/3/2019 12:00:00 AM::
+59173299588:100007036594832:Alvaro:Montoya Pereira:male:La Paz, Bolivia:La Paz, Bolivia:::7/23/2016 12:00:00 AM::
+59173299585:100022387774219:Gerardo:Ajno Yujra:male:::::1/1/0001 12:00:00 AM::
+59173299584:100002169749058:Katterine:Luz:female:La Paz, Bolivia:La Paz, Bolivia:::12/27/2018 12:00:00 AM::
+59173299579:100023639822759:Ruth:Cartagena:female:::::6/5/2019 12:00:00 AM::
+59173299577:100039218110583:Adolfo:Chavez::::::1/1/0001 12:00:00 AM::
+59173299576:100005906010376:Edwin:Quispe:male:São Paulo, Brazil:São Paulo, Brazil::Record News:7/9/2019 12:00:00 AM::
+59173299573:100015667339024:Julia:Charca:female:::::1/22/2018 12:00:00 AM::
+59173299568:100038442291463:Ala:Medida::::::7/2/2019 12:00:00 AM::
+59173299565:100027094537990:Juan Carlos:Quispe:male:La Paz, Bolivia::::5/24/2019 12:00:00 AM::
+59173299562:100022772138709:Conse:Calderon:female:::::1/1/0001 12:00:00 AM::
+59173299561:100032182182473:Lourdes:Mamani:female:La Paz, Bolivia:La Paz, Bolivia:Single:Trabajo las 24 hrs en tu corazon:1/3/2019 12:00:00 AM::
+59173299559:1338199670:Jeaqueline:Luna Chuquimia:female:La Paz, Bolivia:La Paz, Bolivia:Married::7/4/2019 12:00:00 AM::
+59173299553:664254800:Miriam:Flores:female:::Single::7/7/2019 12:00:00 AM::
+59173299552:100037822560149:Nancy:Endara::::::6/4/2019 12:00:00 AM::
+59173299551:100010105331267:Mauricio:Alvarado:male:::::3/29/2016 12:00:00 AM::
+59173299547:100018099451051:Jorge:Fernandez:male:::::1/1/0001 12:00:00 AM::
+59173299546:100030169684948:Betza:Limachi:female:::::11/9/2018 12:00:00 AM::
+59173299542:100010583191256:Iver:Caceres:male:Bogotá, Colombia:Colômbia::Colombianos En México:7/2/2019 12:00:00 AM::
+59173299537:100038228510620:Wilmer:Condori::::::7/9/2019 12:00:00 AM::
+59173299536:100012114402921:Roberto:Condori:male:Ciudad La Paz, La Paz, Bolivia:Ciudad La Paz, La Paz, Bolivia::Facebook:7/23/2018 12:00:00 AM::
+59173299535:100023077814032:Awen Taylor:Mendez Quisbert:male:::::11/20/2017 12:00:00 AM::
+59173299533:100017871035458:Marcela Jacquelin:Lazo Choque:female:::::5/28/2019 12:00:00 AM::
+59173299532:100005651497664:Franco:Zarmiento:male:La Paz, Bolivia:La Paz, Bolivia:Single:"trabajar", Eso que es?!!:12/31/2018 12:00:00 AM::
+59173299531:100011432127584:Miguel:Alarcon:male:La Paz, Bolivia:Ciudad Oruro, Oruro, Bolivia::trabajo independientemente:9/25/2017 12:00:00 AM::
+59173299524:100010669426964:Maria:Tejeda Antesana:female:La Paz, Bolivia:La Paz, Bolivia:It's complicated::6/4/2019 12:00:00 AM::
+59173299522:100023660495397:Fabiana:Mamani:female:::::2/8/2018 12:00:00 AM::
+59173299520:100037504771740:Jhanetsixta:Chavez Quispe::::::6/3/2019 12:00:00 AM::
+59173299519:100037087963818:German:Apaza::La Paz, Bolivia:Chijini, La Paz, Bolivia::Sedcam La Paz:5/23/2019 12:00:00 AM::
+59173299517:100012671625232:Elsa:Oblitas:female:::::12/29/2018 12:00:00 AM::
+59173299514:100036797745550:Mari:Aguilar::::::5/15/2019 12:00:00 AM::
+59173299510:100009311428227:Edgar:Ticona Quispe:male:El Alto:Ciudad La Paz, La Paz, Bolivia:::2/22/2016 12:00:00 AM::
+59173299507:100006295171099:Rafael:Rojas Ochoa:male:Santa Cruz de la Sierra, Bolivia:Santa Cruz de la Sierra, Bolivia:In a relationship::10/7/2018 12:00:00 AM::
+59173299506:100025488615073:Raul:Paucara:male:::::7/11/2018 12:00:00 AM::
+59173299505:100021848406768:Brterta:Acarapi:female:La Paz, Bolivia::::5/4/2018 12:00:00 AM::
+59173299504:100031416562791:William:Deyvid:male:::::12/22/2018 12:00:00 AM::
+59173299503:100035618530705:Jeremías:Quehui Quispe:male:El Alto:::Trabajo las 24 hrs en tu corazon:4/19/2019 12:00:00 AM::
+59173299501:100037415884030:Edda:Ballon::::::6/18/2019 12:00:00 AM::
+59173299500:100037786941444:Mar Marcos:Apiuqura::::::6/12/2019 12:00:00 AM::
+59173299499:100029812191025:Alexander:Villanueva:male:::::6/9/2019 12:00:00 AM::
+59173299498:100014178273241:Cristina:Robles Mamani:female:La Paz, Bolivia:La Paz, Bolivia:::5/21/2019 12:00:00 AM::
+59173299495:100028108953752:Felix:Flores Valero:male:Oruro, Bolivia:Oruro, Bolivia:::8/14/2018 12:00:00 AM::
+59173299494:100036827931691:Melisah:Portugal:female:::::1/1/0001 12:00:00 AM::
+59173299492:100017871370391:Mario:Ali Loza:male:La Paz, Bolivia::::7/12/2019 12:00:00 AM::
+59173299490:100011065958489:Hilda:Huacara Leva:female:::::3/16/2016 12:00:00 AM::
+59173299488:100029467500455:Roberto:Ali Espinoza:male:La Paz, Bolivia::::1/1/0001 12:00:00 AM::
+59173299486:100015653190144:Dania:Salas:female:::::6/1/2019 12:00:00 AM::
+59173299481:100008085242317:Marco Antonio:Vedia Linares:male:La Paz, Bolivia:La Paz, Bolivia::TerraSur:4/26/2019 12:00:00 AM::
+59173299480:100009514427757:Monica:C. Romero:female:Ciudad La Paz, La Paz, Bolivia::It's complicated::6/11/2019 12:00:00 AM::
+59173299478:100012766989667:Mercedez:Quispe:female:::::7/17/2016 12:00:00 AM::
+59173299477:100025863038703:Marta:Huacoto:female:La Paz, Bolivia:La Paz, Bolivia:::11/4/2018 12:00:00 AM::
+59173299474:100018715923781:J Jose:Alvarado:male:::::11/20/2018 12:00:00 AM::
+59173299464:100000146285389:Nayra María:Antezana Alvarado:female:La Paz, Bolivia:La Paz, Bolivia::Universidad Mayor de San Andrés:7/15/2019 12:00:00 AM:nayris14@hotmail.com:05/14
+59173299461:100039295806397:Fredy:Chaves::::::1/1/0001 12:00:00 AM::
+59173299458:100005190584819:Rosa:Chipana Quispe:female:La Paz, Bolivia:La Paz, Bolivia:Single::4/20/2019 12:00:00 AM::04/02/1992
+59173299451:100004317284856:Isaias:Suxo:male:::::4/30/2019 12:00:00 AM::
+59173299444:100032069979819:Lorenzo:Mamani Apaza:male:Ciudad La Paz, La Paz, Bolivia:Ciudad La Paz, La Paz, Bolivia:Single:Asamblea Legislativa Plurinacional de Bolivia:1/2/2019 12:00:00 AM::
+59173299443:100000250382505:Nancy:Quenta:female:La Paz, Bolivia:Ciudad La Paz, La Paz, Bolivia::Gama folklore:7/12/2019 12:00:00 AM::03/20
+59173299442:100016268803481:Yhaneth:Saldoval:female:La Paz, Bolivia:La Paz, Bolivia:Single::5/30/2019 12:00:00 AM::
+59173299441:100025689046133:Raul:Barrios:male:::::1/1/0001 12:00:00 AM::
+59173299440:100038956635718:Valery:Díaz::::::1/1/0001 12:00:00 AM::
+59173299439:100011311037705:Alberto:Chambi:male:::::6/27/2019 12:00:00 AM::
+59173299436:658506056:Rilke:Campero Zapata::Ciudad Oruro, Oruro, Bolivia:Oruro, Bolivia:::5/16/2019 12:00:00 AM::
+59173299434:100036772548992:Dora:Villarroel Morales::::::1/1/0001 12:00:00 AM::
+59173299432:100000230167773:Marcia:Medina Quisbert:female:La Paz, Bolivia:Ciudad La Paz, La Paz, Bolivia::gerente de salon stilo & color:7/3/2019 12:00:00 AM::
+59173299429:100007765059814:Jhenny:Rondon:female:::::5/8/2019 12:00:00 AM::
+59173299428:100034301393277:Lurdes:Valeriano:female:::::3/2/2019 12:00:00 AM::
+59173299425:100033807886926:Oscar:Alarcon:male:::::6/19/2019 12:00:00 AM::
+59173299422:100008925438576:Freddy:Cuellar Pillco:male:La Paz, Bolivia:Ciudad La Paz, La Paz, Bolivia:Single:0perador de maquinaria pesada:5/20/2019 12:00:00 AM::04/01
+59173299421:100025340267909:Guillermina:Surco Bernabe:female:::::8/31/2018 12:00:00 AM::
+59173299419:100014817428569:Lilian:Apaza:female:::::4/1/2019 12:00:00 AM::
+59173299415:100027911522100:Delia:Marca:female:::::3/15/2019 12:00:00 AM::
+59173299410:100034513239223:Sabina:Kea Chura:female:::::3/2/2019 12:00:00 AM::
+59173299404:100026520069159:Yujra:Dina:female:La Paz, Bolivia::::7/5/2019 12:00:00 AM::
+59173299403:100024872650512:Pedro:Ramos:male:::::7/13/2019 12:00:00 AM::
+59173299402:100012839851749:Ronal:Mamani:male::::Operador de Maquinarias Pesadas:2/20/2018 12:00:00 AM::
+59173299401:100029579220069:Santiago:Bonifacio:male:La Paz, Bolivia:Puno, Peru:::10/20/2018 12:00:00 AM::
+59173299398:100015750586182:Eugenia:Hualca:female:::::3/30/2017 12:00:00 AM::
+59173299397:100010406975546:Luis Freddy:Tirado:male:::::1/1/0001 12:00:00 AM::
+59173299395:100034526201841:Aron:Salasar:male:::::7/15/2019 12:00:00 AM::
+59173299393:100010195459432:Vilma:Patzi:female::Ciudad La Paz, La Paz, Bolivia:::6/24/2019 12:00:00 AM::
+59173299391:100026820072956:Raquel:Apaza:female:Ciudad La Paz, La Paz, Bolivia::::6/28/2019 12:00:00 AM::
+59173299390:100009867314778:Rodrigo:Fernandez:male:::Engaged::2/2/2017 12:00:00 AM::
+59173299387:100004144447586:J Gedion:Ticona M:male:La Paz, Bolivia:Santa Rosa, La Pampa:::5/3/2019 12:00:00 AM::
+59173299386:1461230895:Lina:Gutierrez Rodríguez:female:Ciudad La Paz, La Paz, Bolivia:Ciudad La Paz, La Paz, Bolivia:::7/15/2019 12:00:00 AM::
+59173299382:100035085217437:Elena:Basante:female:La Paz, Bolivia:Ciudad La Paz, La Paz, Bolivia::Morro de São Paulo Bahia Brasil:7/5/2019 12:00:00 AM::
+59173299380:100030142921552:Eloy:Callisaya Fernández:male:::::7/9/2019 12:00:00 AM::
+59173299378:100013375608755:Angela:Poma Colque:female::La Paz, Bolivia::Facebook:12/21/2017 12:00:00 AM::
+59173299374:100024586972402:Felix:Flores:male:::::1/1/0001 12:00:00 AM::
+59173299373:100003673098835:Cristian:Marquez Machaca::Ciudad La Paz, La Paz, Bolivia:Ciudad La Paz, La Paz, Bolivia:Single::5/18/2019 12:00:00 AM::
+59173299371:100001113901825:Lidia:Mosquera:female:La Paz, Bolivia:La Paz, Bolivia::Butterfly:9/5/2018 12:00:00 AM::
+59173299369:100011499770544:Willy:Laura Huanca:male:::::4/8/2019 12:00:00 AM::
+59173299368:100023538240702:Katty:Aliaga:male:::::1/1/0001 12:00:00 AM::
+59173299366:100016466739945:Angel:Diaz Torrez:male:Ciudad La Paz, La Paz, Bolivia:La Paz, Bolivia:Single::7/12/2019 12:00:00 AM::
+59173299364:100035159022873:Eugenio:Mamani:male:::::1/1/0001 12:00:00 AM::
+59173299360:100033771630636:Julia:Calle:female:::::7/3/2019 12:00:00 AM::
+59173299355:100004811371757:Luciano:Rodriguez:male::::Facebook:4/20/2019 12:00:00 AM::
+59173299353:100021787543519:Merardo:Quenta:female:La Paz, Bolivia:La Paz, Bolivia::Self-Employed:12/5/2018 12:00:00 AM::
+59173299351:100015246600240:Sami:Sein:male:::::3/8/2018 12:00:00 AM::
+59173299349:100021918485305:Lucio:Ticona:male:::::6/23/2019 12:00:00 AM::
+59173299346:100009938473203:Tania:Quispe:female:La Paz, Bolivia:La Paz, Bolivia::La Paz, La Paz:3/12/2018 12:00:00 AM::
+59173299345:100027612713485:Roberto:Apaza Estaca:male:La Paz, Bolivia:La Paz, Bolivia:::8/17/2018 12:00:00 AM::
+59173299344:100010046109979:Gonzalo:Matias:male:::::6/21/2019 12:00:00 AM::
+59173299343:100026308970012:Irene:Aguirre:female:::::1/1/0001 12:00:00 AM::
+59173299341:100000416611285:Paola:Valdez:female:Ciudad La Paz, La Paz, Bolivia:La Paz, Bolivia::Casaideas Bolivia:6/25/2019 12:00:00 AM::
+59173299333:100013386301216:Luis Fernando:Valdivia Baldiviezo:male::Ciudad La Paz, La Paz, Bolivia:::6/6/2019 12:00:00 AM::
+59173299327:100033040665351:Román:Poma:male::La Paz, Bolivia:Single::3/3/2019 12:00:00 AM::
+59173299325:100011366589446:Francisca:Sarmiento:female:Curahuara de Carangas:Oruro, Bolivia:::12/23/2018 12:00:00 AM::
+59173299323:100007137644333:Wilma Rosario:Guaygua Choque:female:La Paz, Bolivia:Sorata:::7/14/2019 12:00:00 AM::
+59173299320:100022076663697:Edgar:Laura:male:São Paulo, Brazil::::7/8/2018 12:00:00 AM::
+59173299318:100007151284729:Beymar:Laura Fernandez:male:Santa Cruz de la Sierra, Bolivia:Luribay:Single:amo el estudio pero el face se interpone entre nosotros xD:4/6/2018 12:00:00 AM::
+59173299316:100028428084195:Mary:Conde:female:Santa Cruz de la Sierra, Bolivia::::9/15/2018 12:00:00 AM::
+59173299311:100032466544891:Felix:Pallarico:male:::::1/6/2019 12:00:00 AM::
+59173299310:100022302857492:Abraham:Pacari Reyes Ortiz:male:::::5/4/2018 12:00:00 AM::
+59173299307:100012753611887:Rosmery:Villca:female:::::8/12/2016 12:00:00 AM::
+59173299305:100036762954135:Severo:Quispe:male:::::7/6/2019 12:00:00 AM::
+59173299304:100012859908702:Nancy:Quispe:female:::::6/13/2019 12:00:00 AM::
+59173299303:100001527865957:Juan Carlos:Apaza Condori:male:La Paz, Bolivia:La Paz, Bolivia:::1/6/2019 12:00:00 AM::
+59173299300:100004437555203:Primi:Arce:female:El Alto:La Paz, Bolivia::Sibebol srl:12/3/2018 12:00:00 AM::
+59173299299:100017311998081:Eulogia:Yujra:female:Ciudad La Paz, La Paz, Bolivia:Santa Cruz de la Sierra, Bolivia:Married::5/23/2017 12:00:00 AM::
+59173299298:100034393511903:Julia:Perez:female:::::2/27/2019 12:00:00 AM::
+59173299297:100038333346396:Felipe:Miranda::::::6/28/2019 12:00:00 AM::
+59173299295:100024949396618:Thiago:Silva:male:::::3/19/2018 12:00:00 AM::
+59173299293:100009047279591:Janneth Eva:Ticona:female:Ciudad La Paz, La Paz, Bolivia:Ciudad La Paz, La Paz, Bolivia:::7/13/2019 12:00:00 AM::
+59173299292:100036095985510:Franco Junior:Fernandez Lopez:male:::::4/27/2019 12:00:00 AM::
+59173299291:100025523041784:Lucas:Mouura:male:::::1/1/0001 12:00:00 AM::
+59173299286:100015240366467:Magui:Cuaquira:female:::::6/13/2019 12:00:00 AM::
+59173299277:100023680874213:Maria:Mamani:female:::::7/12/2019 12:00:00 AM::
+59173299272:100035264583866:Cristobal:Mamani:male:La Paz, Bolivia:La Paz, Bolivia::Facebook:1/1/0001 12:00:00 AM::
+59173299271:100027521269350:Naydha:Mendez:female:::::1/1/0001 12:00:00 AM::
+59173299270:100036391463349:Marina:Calderon Alvarez:female:::::1/1/0001 12:00:00 AM::
+59173299269:100027399877517:Ana Luz:Fernández:female:Santa Martha, Santa Cruz, Bolivia:Santa Martha, Santa Cruz, Bolivia::TRABAJO LAS 24 ORAS EN TU CORAZON:7/10/2018 12:00:00 AM::
+59173299268:100001851982991:Daysi Ester:Cruz Alejo:female:La Paz, Bolivia:La Paz, Bolivia:Married::6/28/2019 12:00:00 AM::
+59173299264:100015325564623:Sol Angel:Valencia:female:La Paz, Bolivia::In an open relationship::6/12/2018 12:00:00 AM::
+59173299260:100017310636502:Eliana:Medina Villanueva:female:Teoponte:Teoponte:Married:Facebook:6/11/2019 12:00:00 AM::
+59173299256:100007959018959:Gaviota:Huarachi Sandalio:female:La Paz, Bolivia:Ciudad La Paz, La Paz, Bolivia::#SoyUnaPrincesayLasPrincesassNoTrabajan!:7/14/2019 12:00:00 AM::
+59173299254:100014556971155:Juan:Tevez:male:::::1/7/2017 12:00:00 AM::
+59173299253:100022995102290:Miriam:Alejo:female:::::6/20/2019 12:00:00 AM::
+59173299250:1126261835:Aghie:Asturizaga:female:La Paz, Bolivia:La Paz, Bolivia:Single::7/6/2019 12:00:00 AM::05/19
+59173299243:100034364257457:Mirian:Pinedo:female:La Paz, Bolivia::::2/24/2019 12:00:00 AM::
+59173299242:100010424204262:Elizabet:Mita:female:La Paz, Bolivia:La Paz, Bolivia:In a relationship:Trabajo las 24 hrs en tu corazon:6/11/2019 12:00:00 AM::
+59173299238:100038408610674:Cristina:Rosa::::::6/19/2019 12:00:00 AM::
+59173299229:100002856483036:Fredy:Baltazar:male:La Paz, Bolivia:La Paz, Bolivia::SEDES, La Paz:4/26/2019 12:00:00 AM:balfre777@hotmail.com:09/17
+59173299226:100020328878707:Aquilino:Rios:male:::::7/26/2017 12:00:00 AM::
+59173299225:100008503804992:Antonio:Delgado:male:La Paz, Bolivia:La Paz, Bolivia::SEDEM:3/12/2018 12:00:00 AM::
+59173299223:100025988974595:Rosemary:Patzy:female:::::5/7/2018 12:00:00 AM::
+59173299222:100003475742357:Jhonatan:Lozan:male:La Paz, Bolivia:El Alto:Single::6/21/2019 12:00:00 AM::
+59173299220:100033250904390:William:Roque:male:::::1/1/0001 12:00:00 AM::
+59173299219:100026074205872:Ruben:Codori:male::::Laboratorios VITA S.A.:5/23/2018 12:00:00 AM::
+59173299218:100010146702631:Venta de Telas:Pintos:female:::::6/21/2019 12:00:00 AM::
+59173299216:100039341880035:Amanda:Canaza::La Paz, Bolivia:La Paz, Bolivia:::7/9/2019 12:00:00 AM::
+59173299215:100029629927915:Bernardo:Vega:male:::Single:Puerto Esmeralda:3/9/2019 12:00:00 AM::
+59173299213:100012861941136:Sergio Alvaro:Chalco Tucupa:male:::::4/11/2018 12:00:00 AM::
+59173299211:1774658901:Orlando:Ordoñez Cuentas:male:La Paz, Bolivia:Cochabamba, Bolivia:Married:Facebook:8/13/2018 12:00:00 AM::
+59173299209:100016667768383:Cesar:Herre:male:::::1/1/0001 12:00:00 AM::
+59173299208:100025684061422:Harley:Limachi:male:::::4/27/2018 12:00:00 AM::
+59173299204:100010527494738:Lucero:Mamani:female:La Paz, Bolivia:La Paz, Bolivia:In a relationship::7/14/2019 12:00:00 AM::
+59173299200:100007538233143:Gonzalo:Sano:male::Apolo, La Paz:Single::7/9/2019 12:00:00 AM::
+59173299198:100006583062298:Alejandro:Tarque:male:La Paz, Bolivia:La Paz, Bolivia:::1/27/2017 12:00:00 AM::
+59173299195:100003302571968:Alejandro:Montero Miranda:male:La Paz, Bolivia:La Paz, Bolivia:::6/6/2013 12:00:00 AM::
+59173299193:100014660085521:Sirley:Palacios Gallardo:female:::::12/8/2018 12:00:00 AM::
+59173299184:100003066541600:Christian:Vasquez Aramayo:male:Ciudad La Paz, La Paz, Bolivia:Ciudad La Paz, La Paz, Bolivia:::4/18/2019 12:00:00 AM::
+59173299182:100039404374463:Marlene:Choque::::::1/1/0001 12:00:00 AM::
+59173299181:100015122746294:Yeny Jimena:Villarreal:female:La Paz, Bolivia:Ciudad La Paz, La Paz, Bolivia:Single:Estudiante:4/22/2019 12:00:00 AM::
+59173299180:614518923:Nataly:Marcela:female:::::6/4/2019 12:00:00 AM::
+59173299179:100022646712026:Basy:Mayram:female:::::2/3/2019 12:00:00 AM::
+59173299175:100034683060790:Laura:Quiroga:female:::::3/4/2019 12:00:00 AM::
+59173299174:100011188395126:Ramiro:Surco:male:La Paz, Bolivia:Ciudad La Paz, La Paz, Bolivia:::6/21/2019 12:00:00 AM::
+59173299171:100017450743179:Gregoria:Condori Mamani:female:::::8/4/2017 12:00:00 AM::
+59173299170:100023605654092:Tigre:Rom:male:La Paz, Bolivia:La Paz, Bolivia:::3/9/2018 12:00:00 AM::
+59173299168:100033856622239:Gabiyhoy:Yham:female:::::1/1/0001 12:00:00 AM::
+59173299166:100022123102360:Santiago:Mamani:male:::::2/5/2019 12:00:00 AM::
+59173299163:100015953448884:Sofia:Quispe:female:::::1/11/2019 12:00:00 AM::
+59173299158:100036796878643:Francisca:Mollo:female:::::1/1/0001 12:00:00 AM::
+59173299157:100018865808702:Adrian:Saire Benegas:male:La Paz, Bolivia::::5/5/2019 12:00:00 AM::
+59173299153:100024689585058:Ruth:Alejo:female:::::7/9/2019 12:00:00 AM::
+59173299152:100013836822480:Rafa:Marcani:male:Ciudad La Paz, La Paz, Bolivia:Ciudad La Paz, La Paz, Bolivia:::5/27/2019 12:00:00 AM::
+59173299149:100027398400029:Rene:Luna:male:La Paz, Bolivia::::6/27/2019 12:00:00 AM::
+59173299145:100015191054981:Karen:Hilary:female:::::4/13/2019 12:00:00 AM::
+59173299144:100014935208676:Ronal:Poma:male:Ciudad La Paz, La Paz, Bolivia:La Paz, Bolivia:::6/26/2019 12:00:00 AM::
+59173299143:100025047376267:Calixto:Miranda:male:::::1/1/0001 12:00:00 AM::
+59173299140:100034326170004:Rodica:Quispe:female:::::1/1/0001 12:00:00 AM::
+59173299138:100012207514412:Celia:Mancilla:female:::::4/26/2018 12:00:00 AM::
+59173299133:100011372766892:Daniel:Alvarez:male:La Paz, Bolivia:Santa Cruz de la Sierra, Bolivia:Engaged:Facebook:5/16/2019 12:00:00 AM::
+59173299130:100011789671353:Mayoli:Mayte:female:La Paz, Bolivia:La Paz, Bolivia:::6/5/2019 12:00:00 AM::
+59173299129:100005984263599:Iris:Rioja:female:La Paz, Bolivia::::10/23/2017 12:00:00 AM::03/08
+59173299117:100009332922035:Ovedece:Balman:male::::Servicio Educacional Hogar Y Salud - Distrito Chone, Ecuador:2/9/2019 12:00:00 AM::
+59173299116:100031435303614:Eva:Ramos:male:Ciudad La Paz, La Paz, Bolivia:Ciudad La Paz, La Paz, Bolivia:Married:Import-export:4/25/2019 12:00:00 AM::
+59173299114:100009530995806:J Maria:Rios:female:La Paz, Bolivia:Ciudad La Paz, La Paz, Bolivia:Married:En Mi Casa Solo Pensando En El Amor De Mi Vida:4/17/2019 12:00:00 AM::
+59173299112:100033009870701:Justo:Yujra:male:::::1/14/2019 12:00:00 AM::
+59173299110:100009631011840:Selman:Hinojosa Lima:male:La Paz, Bolivia:La Paz, Bolivia::Arquitecto:7/6/2019 12:00:00 AM::
+59173299107:100035947420996:Cesar:Estrada:male:::::7/1/2019 12:00:00 AM::
+59173299106:100028891650793:Ere:Tola:male:::::1/1/0001 12:00:00 AM::
+59173299101:100007440133181:Cuqui:Sanjines:female:La Paz, Bolivia:La Paz, Bolivia:::7/4/2019 12:00:00 AM::
+59173299098:100009216368607:Roger Julio:Machaca Paco:male:::::2/8/2019 12:00:00 AM::
+59173299094:100038078116185:Jhusel:Quispe::::::1/1/0001 12:00:00 AM::
+59173299089:100036338089131:Ruben:Casilla:male:::::6/23/2019 12:00:00 AM::
+59173299082:100023017564871:Ana:Morales:female:::::11/12/2017 12:00:00 AM::
+59173299079:100024285750851:Ayde:Espejo:female:::::1/13/2019 12:00:00 AM::
+59173299075:100015704312068:Freddy:Monrroy Pardo:male:La Paz, Bolivia:Ciudad La Paz, La Paz, Bolivia::Imprenta Offset PINCEL:7/14/2019 12:00:00 AM::
+59173299070:100006610636780:Maria Elena:Rios Rojas:female:El Alto:::Self-Employed:1/20/2019 12:00:00 AM::
+59173299067:100002787343653:Andrea:Aguilar Villanueva:female:Ciudad La Paz, La Paz, Bolivia:Ciudad La Paz, La Paz, Bolivia:Married:ODONTOLOGIA- CLINICA UDABOL:6/18/2019 12:00:00 AM::
+59173299066:100029013682279:Pablo:Laricl:male:::::1/1/0001 12:00:00 AM::
+59173299064:100024193728997:Rosmery:Mamani:female:::::4/1/2018 12:00:00 AM::
+59173299063:1474676307:Silvia:Copla:female:::::5/28/2019 12:00:00 AM::
+59173299059:100034294537251:Jhonny:Ubano:male:::::3/29/2019 12:00:00 AM::
+59173299057:100033854886037:Jacinto:Alvarez Cari:male:::::1/1/0001 12:00:00 AM::
+59173299056:100017869118646:Edgar:Quispe Calani:male:::::3/14/2019 12:00:00 AM::
+59173299055:100028377486049:Eymy:Marca:female:::::1/1/0001 12:00:00 AM::
+59173299051:100029343160585:Ramiro:Macusaya:male:::::5/8/2019 12:00:00 AM::
+59173299050:100015654587011:Rene:Espinoza Valeriano:male:Ciudad La Paz, La Paz, Bolivia:Ciudad La Paz, La Paz, Bolivia::Gobierno Autónomo Departamental de La Paz:7/9/2019 12:00:00 AM::
+59173299049:100012854355975:Gaby:Quispe:female::::Amandote solo ati:7/2/2019 12:00:00 AM::
+59173299048:100004605310319:Lucy Otilia:Chui Loza:female:::::7/14/2019 12:00:00 AM::
+59173299047:100027242183249:Jose:Arteaga:male:::::1/1/0001 12:00:00 AM::
+59173299046:100014952047649:Mayra:Condori:female:::::12/12/2017 12:00:00 AM::
+59173299045:100014697877194:Jhein Mily:G. Martinez:female:La Paz, Bolivia:La Paz, Bolivia:In a relationship::1/27/2017 12:00:00 AM::
+59173299042:100031739508290:Jhimy:Paucara Achillo:male:::::1/25/2019 12:00:00 AM::
+59173299040:100008883782896:Jennlin:Zepol:female:Ciudad La Paz, La Paz, Bolivia::Married::2/7/2019 12:00:00 AM::
+59173299038:100008789920205:David:Lanchipa:male:La Paz, Bolivia:La Paz, Bolivia::ORGANIC TABLE BY LAPAZ:5/15/2019 12:00:00 AM::
+59173299036:100038737753987:Marcial:Vicente::::::7/1/2019 12:00:00 AM::
+59173299034:100015091155936:ZiZi:Alvez:male:::::1/1/0001 12:00:00 AM::
+59173299030:100027198044451:Gon:Hinojosa:male:::::1/1/0001 12:00:00 AM::
+59173299029:1128946380:Diego:Gomez Rojas:male:::::9/14/2017 12:00:00 AM::
+59173299025:100023541997708:Ramiro:Lifonzo Ramos:male:::In a domestic partnership::1/12/2019 12:00:00 AM::
+59173299022:100011933012005:Silvia:Quisbert:female:La Paz, Bolivia:La Paz, Bolivia::Las 24 Horas Pensando En Ti:2/23/2017 12:00:00 AM::
+59173299021:100033678344012:Edwin:Chui:male:::::1/1/0001 12:00:00 AM::
+59173299019:100012322062004:Anita:Rivera:female::Ciudad La Paz, La Paz, Bolivia:::5/13/2019 12:00:00 AM::02/16
+59173299018:100035545694389:Elmer:Mamani:male:::::4/12/2019 12:00:00 AM::
+59173299014:1058749966:Elias:Arumbari Ruiz:male:Tarija, Bolivia:Cercado, Tarija, Bolivia::ejrcito:5/18/2019 12:00:00 AM::
+59173299012:100015084664307:Amalia:Ali:female:::::7/14/2019 12:00:00 AM::
+59173299011:100012954061428:Joseluis:Colquehuanca:male:La Paz, Bolivia:La Paz, Bolivia::CONSTRUCORP S.A.:7/2/2019 12:00:00 AM::
+59173299010:100023629862487:Javier Galin:Quispe Flores:male:::::2/27/2018 12:00:00 AM::
+59173299009:100011464265099:Lidia:Tusco:female:::::6/4/2019 12:00:00 AM::
+59173299007:100014816076672:Bruno:Tancara Apaza:male:Santa Cruz de la Sierra, Bolivia:::Self-Employed:6/18/2019 12:00:00 AM::
+59173299001:100014780378575:Gloria:León:female:::::8/12/2018 12:00:00 AM::
+59173298999:100011546742975:Christian:Tretter:male:Ciudad La Paz, La Paz, Bolivia:La Paz, Bolivia::Doofenshmirtz malvados y asociados (8):3/8/2019 12:00:00 AM::
+59173298997:100033423009096:Ana Maria:Garcia:female:::::5/27/2019 12:00:00 AM::
+59173298994:100037046961406:Elizabeth:Ayala::::::6/28/2019 12:00:00 AM::
+59173298989:100036384951573:Elisa:Suri Mamani:female:Cochabamba, Bolivia:::Facebook:5/18/2019 12:00:00 AM::
+59173298987:100032483022460:Antolin:Mamani:male:::::5/24/2019 12:00:00 AM::
+59173298985:613587150:Mauri:Mercado Mejía:male:La Paz, Bolivia:Cochabamba, Bolivia:Engaged:Tribunal Departamental De Justicia - La Paz:5/26/2019 12:00:00 AM::03/09
+59173298983:100022155195499:Zulma Betzabe:Ponce Salas:female:Apolo, La Paz:Apolo, La Paz:::7/14/2019 12:00:00 AM::
+59173298980:100006938709027:Silvia:Farfan:female:La Paz, Bolivia:::IJF - International Judo Federation:11/26/2018 12:00:00 AM::
+59173298979:100010515631802:Mario:Villca Tola:male:La Paz, Bolivia:La Paz, Bolivia::Estudiante:7/8/2019 12:00:00 AM::
+59173298972:100002638159550:Valerio:Walas:male:La Paz, Bolivia:La Paz, Bolivia::Delizia Bolivia:6/26/2019 12:00:00 AM::
+59173298971:100009549496806:Jesus:Coyo:male:Ciudad La Paz, La Paz, Bolivia:La Paz, Bolivia:Single::5/28/2019 12:00:00 AM::
+59173298966:100002949937611:Aron:Jimenez:male:Ciudad La Paz, La Paz, Bolivia:La Paz, Bolivia::Malvados y Asociados:4/28/2019 12:00:00 AM::
+59173298963:100038833373427:Altar Del:Cielo::::::1/1/0001 12:00:00 AM::
+59173298962:100011324120070:Fabiola:Tarquiquispe:male:::::1/8/2019 12:00:00 AM::
+59173298959:1773286259:Emilio:Mariscal Hinojosa:male:::Married:Viceministerio de Política Minera:1/1/0001 12:00:00 AM::
+59173298958:100028184923704:Carlos:Akd:male:::::1/1/0001 12:00:00 AM::
+59173298957:100010323496188:Edward:Lima:male:La Paz, Bolivia:Ciudad La Paz, La Paz, Bolivia:::5/3/2019 12:00:00 AM::
+59173298956:100015370575022:Nando:Quisbert:male::Coroico:::6/26/2019 12:00:00 AM::
+59173298953:100011898243847:Sueño:Real:male:::::1/1/0001 12:00:00 AM::
+59173298951:100017506470406:Yaneth:Gutierrez:female:La Paz, Bolivia:La Paz, Bolivia:Single::3/27/2019 12:00:00 AM::
+59173298948:100023850499751:Emma:Choque:female:::::1/1/0001 12:00:00 AM::
+59173298947:100039023930109:Elmer:Torrico::Chuquini, La Paz, Bolivia::::7/11/2019 12:00:00 AM::
+59173298945:100011866869630:Erika:Tarqui:female:Alto, La Paz, Bolivia:El Alto:Single::10/20/2018 12:00:00 AM::
+59173298943:100038411561665:Juan:Laura::::::1/1/0001 12:00:00 AM::
+59173298941:100035427953209:Camila Quispe:Chuquimia:female:::::7/15/2019 12:00:00 AM::
+59173298939:100000788507187:Alvaro:Rosales Estevez::::::7/4/2017 12:00:00 AM::03/15
+59173298938:100026717446758:Freddy:Sucojayo:male:::::1/1/0001 12:00:00 AM::
+59173298935:100027914933667:Patricia:Moreno:female:::::1/1/0001 12:00:00 AM::
+59173298934:100033045917589:Esteban Alfonso:Quispe Ticona:male:::::1/1/0001 12:00:00 AM::
+59173298928:100009458432866:Niki:Quispe Vasquez:female::Ciudad La Paz, La Paz, Bolivia:Engaged:La distancia impide un beso o un abrazo, pero jamás impide un sentimiento.:7/13/2019 12:00:00 AM::
+59173298927:100027752840673:Oscar:Cordova:male:::::8/8/2018 12:00:00 AM::
+59173298924:100004508836907:Anahi:Guzman:female:La Paz, Bolivia:La Paz, Bolivia:Single:Facebook:6/30/2019 12:00:00 AM::
+59173298923:100038343333953:Gimena:Taequi::::::1/1/0001 12:00:00 AM::
+59173298922:100021578983691:Richar:Espinoza:male:::::1/1/0001 12:00:00 AM::
+59173298921:100000275090456:Alvaro:Quevedo Saldias:male:Santa Cruz de la Sierra, Bolivia:Yacuiba:Single::6/23/2019 12:00:00 AM::
+59173298919:100015017115716:Placido:Apaza:male:::::7/6/2019 12:00:00 AM::
+59173298914:100006162967938:Jhanira:Canaviri:female:La Paz, Bolivia:Oruro, Bolivia:Single:amo el estudio pero el face se interpone entre nosotros xD:7/19/2018 12:00:00 AM::
+59173298913:100009971978038:Milton:Luna:male:::::5/6/2017 12:00:00 AM::
+59173298911:100007659823092:Ana:Salazar:female:La Paz, Bolivia:Ciudad La Paz, La Paz, Bolivia::Prosalud:5/12/2019 12:00:00 AM::
+59173298906:100012145872822:Angel Ruben:Alarcon Ramirez:male:::::7/12/2019 12:00:00 AM::
+59173298901:100027785559299:Fredd:Ticona:male:::::7/31/2018 12:00:00 AM::
+59173298896:100002911010642:David:Mamani Villca:male:La Paz, Bolivia:La Paz, Bolivia::musico:2/17/2019 12:00:00 AM::
+59173298893:100035847391858:Marianela:Riberth:female:::::6/1/2019 12:00:00 AM::
+59173298891:100004462385896:Raimundo:Perez:male::::sukini:1/9/2018 12:00:00 AM::
+59173298890:100036751792268:Griselda:Poma:female:La Paz, Bolivia::Single:Trabajo las 24 hrs en tu corazon:7/12/2019 12:00:00 AM::
+59173298888:100032825861392:Jose:Alberto:male:La Paz, Bolivia::::2/3/2019 12:00:00 AM::
+59173298887:100022434432278:Josefina:Maria:female:::::1/1/0001 12:00:00 AM::
+59173298881:100021427010122:Patt:Kastel:female:::::6/30/2019 12:00:00 AM::
+59173298880:100025219040894:Dora:Molle:female:La Paz, Bolivia:Ciudad La Paz, La Paz, Bolivia:::6/29/2019 12:00:00 AM::
+59173298878:100023820125203:Americo:Gutierez:male:::::1/1/0001 12:00:00 AM::
+59173298872:100029258580529:Roge:Mamani:male:::::10/5/2018 12:00:00 AM::
+59173298870:100027718623745:Jhonatan:Toro Sonco:male:::::8/5/2018 12:00:00 AM::
+59173298859:100015491400702:Pablo:Quenta:male:::::3/25/2017 12:00:00 AM::
+59173298856:100017266151983:Maria:Poma:female:La Paz, Bolivia:La Paz, Bolivia:Single::6/26/2019 12:00:00 AM::
+59173298855:100023097425671:Reynaldo:Patzi:male:::::6/1/2019 12:00:00 AM::
+59173298853:100038482036834:Nieves:Macedo Monrroy::::::1/1/0001 12:00:00 AM::
+59173298852:100010598204071:Angel Freddy:Espinoza:male:::::2/2/2019 12:00:00 AM::
+59173298850:100011502276721:Isabel:Mamani Quispe:female:La Paz, Bolivia:El Alto:::6/24/2019 12:00:00 AM::
+59173298849:100011058066546:Stefany:Mamani Laura:female:La Paz, Bolivia:La Paz, Bolivia:Single:Facebook:5/30/2019 12:00:00 AM::
+59173298844:100032589194525:Daniel:Cortes Telles:male:Santiago, Chile:Santiago, Chile:In an open relationship:Trabajo las 24 hrs en tu corazon:1/10/2019 12:00:00 AM::
+59173298836:100029284812258:Naya:Naya:female:::::4/20/2019 12:00:00 AM::
+59173298835:1418475513:Leidy Emilia:Mamani Rojas:female:La Paz, Bolivia:La Paz, Bolivia::CeCuA:1/8/2019 12:00:00 AM::
+59173298830:100010111544547:Yusti:Quispe:female:::::3/29/2019 12:00:00 AM::
+59173298828:100035303710020:Apolo:Cronos:male:::::4/1/2019 12:00:00 AM::
+59173298825:100030333764525:Jose:Huasco:male:::::1/29/2019 12:00:00 AM::
+59173298824:100028346713334:Gerardo:Rojas:male:::::4/9/2019 12:00:00 AM::
+59173298823:100004901563504:Jorge Ruben:Carrillo Quispe:male:La Paz, Bolivia:La Paz, Bolivia::Policia Boliviana (Oficial):1/1/0001 12:00:00 AM::
+59173298820:100037843908118:Nora:Gutiérrez::::::1/1/0001 12:00:00 AM::
+59173298819:100025297923719:Marco:Cuellar:male:::::1/1/0001 12:00:00 AM::
+59173298818:100028709375024:Enrique:Pairo Tambo:male:La Paz, Bolivia:Ciudad La Paz, La Paz, Bolivia:::12/30/2018 12:00:00 AM::
+59173298808:100003577359674:Ricardo:Cardenas:male:La Paz, Bolivia:La Paz, Bolivia:::2/23/2019 12:00:00 AM::
+59173298807:100021890704063:Elizabet:Medina:female:::::11/23/2018 12:00:00 AM::
+59173298804:100006271805466:Gonzalo:Guzmán Cruz:male:La Paz, Bolivia:Ciudad La Paz, La Paz, Bolivia:::4/21/2019 12:00:00 AM::
+59173298801:100012827107053:Rosmery:Canaviri:female::La Paz, Bolivia:::10/12/2018 12:00:00 AM::
+59173298800:100016814141260:Valentina:Troche:female::Santa Cruz de la Sierra, Bolivia:::4/14/2019 12:00:00 AM::
+59173298799:100034678566721:Luis:Huallpa:male:::::3/8/2019 12:00:00 AM::
+59173298795:100019199266896:Pablo Marcelo:Gutiérrez Silva:male:Ciudad La Paz, La Paz, Bolivia:Ciudad La Paz, La Paz, Bolivia::Self-Employed:6/30/2019 12:00:00 AM::
+59173298794:100009162811543:Veronica:Ph:female:La Paz, Bolivia:La Paz, Bolivia:It's complicated::7/11/2019 12:00:00 AM::
+59173298790:100034058024097:Mayra:Desime:female:::::1/1/0001 12:00:00 AM::
+59173298789:100009853936164:Eduardo A.:Rios:male:::::5/29/2019 12:00:00 AM::
+59173298788:100036295839769:Oscar:Melendres Quiroga:male:::::7/7/2019 12:00:00 AM::
+59173298787:100039402902557:Victor:Frankenstai::::::7/12/2019 12:00:00 AM::
+59173298786:100037795731212:Hoetncia:Quispe Mamani::::::6/16/2019 12:00:00 AM::
+59173298784:100011422249874:Maura Maribel:Ramos Conde:male:::::1/6/2017 12:00:00 AM::
+59173298781:100035896146242:Franklin:Chalco:male:::::4/19/2019 12:00:00 AM::
+59173298770:100031925020290:Max:Poma:male:::::1/1/0001 12:00:00 AM::
+59173298769:100015095476022:Esperanza:Aliaga:female::La Paz, Bolivia:::5/13/2019 12:00:00 AM::
+59173298763:100034582004423:Maria Dina:Mano Muchairo:female:::::3/17/2019 12:00:00 AM::
+59173298761:100026586920871:Fabiana:Haba:female:::::1/1/0001 12:00:00 AM::
+59173298757:100026637284005:Reina Eliza:Checo:female:::::7/1/2019 12:00:00 AM::
+59173298754:100011455961354:Rosmery:Ignacio Veliz:female:::::3/2/2016 12:00:00 AM::
+59173298752:100008697040868:Herlan:Quispe:male:La Paz, Bolivia:Irupana:::7/2/2019 12:00:00 AM::
+59173298748:100023799772755:Rene:Saucedo:male:::::1/18/2018 12:00:00 AM::
+59173298747:100010840958655:Rosario:Salas Mamani:female:::::2/12/2016 12:00:00 AM::
+59173298746:100018864049168:Santiago:Flores:male:::::1/1/0001 12:00:00 AM::
+59173298739:100010210787070:Oskar:Vaquiata:male::Ciudad La Paz, La Paz, Bolivia::Monster Energy:6/23/2019 12:00:00 AM::
+59173298733:100001854826039:Olver:Villalba:male:Santa Cruz de la Sierra, Bolivia::Single::11/23/2017 12:00:00 AM::
+59173298732:100001431443126:Maria Mabel:Claros Andrade:female:::::6/6/2019 12:00:00 AM::
+59173298727:100000414385787:Irma:Cussi:female:La Paz, Bolivia:La Paz, Bolivia:::3/2/2019 12:00:00 AM::
+59173298726:100035509380297:Fabian:Hinojosa:male:::::4/3/2019 12:00:00 AM::
+59173298725:100021647232485:Rey:Tigree:male:Ciudad La Paz, La Paz, Bolivia:La Paz, Bolivia::Facebook:7/10/2019 12:00:00 AM::
+59173298723:100004714454844:Emily:Todo Joda:female:::::4/13/2015 12:00:00 AM::
+59173298721:100000934753360:Angeles:Lucia:female:La Paz, Bolivia:La Paz, Bolivia:::6/28/2019 12:00:00 AM::
+59173298719:100008640398417:Fernando:Olivera Galvan:male:::::6/11/2019 12:00:00 AM::
+59173298718:100004786230540:Mauricio:Ticona::La Paz, Bolivia::Single::7/9/2019 12:00:00 AM::04/06
+59173298714:100002353833136:Marcelo:Zacarias:male:La Paz, Bolivia:La Paz, Bolivia::Ministerio de Relaciones Exteriores de Be Bolivia:7/4/2019 12:00:00 AM::
+59173298713:100022056381651:Sixto:Ticona:male:La Paz, Bolivia:Ciudad La Paz, La Paz, Bolivia:::6/6/2019 12:00:00 AM::
+59173298709:100002513934790:Nancy:Mamani Blanco:female:Ciudad La Paz, La Paz, Bolivia:El Alto:::1/29/2017 12:00:00 AM::
+59173298707:100028617460597:Rolando:Medina:male:::::11/17/2018 12:00:00 AM::
+59173298705:100010019975322:Josue:Quispe:male:::::7/25/2016 12:00:00 AM::
+59173298703:100033057799193:Jhoncito:Condor:male:::::1/1/0001 12:00:00 AM::
+59173298701:100016066414501:Lidia:Quispe:female:La Paz, Bolivia:La Paz, Bolivia:::4/22/2019 12:00:00 AM::
+59173298700:100022127799427:Yenny:Tusco Pantoja:female:::::3/19/2019 12:00:00 AM::
+59173298699:100003247254333:Mauro:Chipunavi:male:Ciudad La Paz, La Paz, Bolivia:La Paz, Bolivia:Single::7/10/2019 12:00:00 AM::
+59173298698:100032577764934:Jhonatan:Velasquez:male:::::1/1/0001 12:00:00 AM::
+59173298697:100037121862634:Norma:Yana::::::5/29/2019 12:00:00 AM::
+59173298695:100025519638265:Aurelia:Apaza:female:::::1/1/0001 12:00:00 AM::
+59173298693:100011374173240:Patricio:Pandolfo:male:::::1/1/0001 12:00:00 AM::
+59173298691:100027522422420:Soledad:Condori:female:La Paz, Bolivia::Single:Self-Employed:3/7/2019 12:00:00 AM::
+59173298690:100029323128650:Alejandro:Salinas:male:La Paz, Bolivia:Chulumani::Chulumani - Sud Yungas:3/19/2019 12:00:00 AM::
+59173298689:100032511360326:Reynaldo:Cuper:male:::::1/1/0001 12:00:00 AM::
+59173298688:100014750736148:Yola:Cruz:female:Mar De Cobo, Buenos Aires, Argentina:Buenos Aires, Argentina:::5/9/2019 12:00:00 AM::
+59173298684:100032805623578:Alicia:Mamani:female:::::3/10/2019 12:00:00 AM::
+59173298679:100010184478800:Jüłıø Ŕīģøběŕţô:Łģűš:male:Morelia, Mexico:Ciudad La Paz, La Paz, Bolivia:In a relationship:La distancia impide un beso o un abrazo, pero jamás impide un sentimiento.:7/11/2019 12:00:00 AM::
+59173298678:100003189342097:Prodi:Leon Huchani:male:El Alto::::1/18/2019 12:00:00 AM::
+59173298676:100012429884252:Laura Gabriela:Portugal:female:::::6/26/2019 12:00:00 AM::
+59173298672:100011332115188:Jhannet:Poveda Barrozo:female:::::6/18/2019 12:00:00 AM::
+59173298667:100039171044724:Victor:Chui Torres::::::7/12/2019 12:00:00 AM::
+59173298659:100010598623185:Alan:Monrroy Rojas:male:::::6/19/2019 12:00:00 AM::
+59173298658:100030214058100:Marce:Mayta:female:::::11/12/2018 12:00:00 AM::
+59173298657:100029010664336:Dulcinea:Morena:female:::::1/1/0001 12:00:00 AM::
+59173298656:100023494191286:Freddy Carlos:Aruquipa Lima:male:::::12/25/2017 12:00:00 AM::
+59173298655:100029126690261:Felix:Santamaria:male:::::10/12/2018 12:00:00 AM::
+59173298651:100020889159754:Eddy:Magne Quispe:male:::::5/13/2019 12:00:00 AM::
+59173298650:1405755514:Jhon Iver:Yujra Choque:male::::Gobierno Autónomo Municipal de La Paz:4/10/2019 12:00:00 AM::
+59173298648:100015193506804:Jeaneth:Arrieta:female:::::6/5/2018 12:00:00 AM::
+59173298647:100002795013695:Nestor:Nina Calle:male:La Paz, Bolivia:Ciudad La Paz, La Paz, Bolivia:::7/4/2019 12:00:00 AM::
+59173298644:100027895715445:Alejandro:Condori:male:::::1/1/0001 12:00:00 AM::
+59173298638:100038782432887:Lola:Pal::::::1/1/0001 12:00:00 AM::
+59173298636:100024053856837:Elias Abel:Montero:male:::::1/17/2018 12:00:00 AM::
+59173298635:100010021274185:Gime:Ramos:female:Yunguyo, Puno, Peru:Paramonga Hacienda, Lima, Peru::Wrangler Paraguay:2/14/2019 12:00:00 AM::
+59173298634:100014045045936:Jaime:Poma:male:::::12/21/2016 12:00:00 AM::
+59173298632:100011279947027:Gisela:Romero:female:::::2/2/2016 12:00:00 AM::
+59173298626:100025271282205:Ljr:Mamani:male:Ciudad La Paz, La Paz, Bolivia:Ciudad La Paz, La Paz, Bolivia::Tu corazón en serio:1/20/2019 12:00:00 AM::
+59173298621:100033489442972:Reynaldo:Mendoza:male:::::1/1/0001 12:00:00 AM::
+59173298620:100014372792698:Angel Gabriel:Kori:male:::::11/25/2016 12:00:00 AM::
+59173298614:100000924486246:Moises:Quispe Callisaya:male:La Paz, Bolivia::::10/7/2017 12:00:00 AM::
+59173298613:100038426319347:Candi:Ramirez::Caranavi:La Paz, Bolivia::Self-Employed:6/25/2019 12:00:00 AM::
+59173298611:100005208309995:J Alejandro:Paredes Valdivia:male:Ciudad La Paz, La Paz, Bolivia:Concepción Santa Rosa, El Beni, Bolivia:Single:ENGLOBATE TV:7/11/2019 12:00:00 AM:pvaldivia7@msn.com:
+59173298609:100012017460106:Diego Alejandro:Escobar Chalco:male:Ciudad La Paz, La Paz, Bolivia:La Paz, Bolivia:::7/13/2019 12:00:00 AM::
+59173298603:100017950326870:Daniel:Aruquipa:male:::::10/25/2018 12:00:00 AM::
+59173298600:100022742945807:Genoveva:Flores:female:::::10/25/2017 12:00:00 AM::
+59173298597:100013305488488:Irancita:Leigue Chuquiza:female:::::1/1/0001 12:00:00 AM::
+59173298595:100010920788150:Sonia:Ocampo:female:::::1/6/2019 12:00:00 AM::
+59173298593:100013951364464:Olvicito:Quispe Condori:male:::::11/25/2016 12:00:00 AM::
+59173298590:100029676196532:Gloria:Torrico Luna:female:::::12/27/2018 12:00:00 AM::
+59173298586:100032912752705:Rodrigo:Mamani:male:::::1/30/2019 12:00:00 AM::
+59173298583:100013886867373:Edwin:Lifonzo Melendrez:male:La Paz, Bolivia:Ciudad La Paz, La Paz, Bolivia:::10/28/2016 12:00:00 AM::
+59173298581:1201006250:Carla Ninoska:Camacho Siles:female:La Paz, Bolivia:Ciudad La Paz, La Paz, Bolivia:Married::6/7/2019 12:00:00 AM::
+59173298580:100025552295888:Neymar:Laura:male:::::3/20/2019 12:00:00 AM::
+59173298579:100031753055752:Augusta:Veliz:female:::::2/2/2019 12:00:00 AM::
+59173298576:100037477215461:Margarita:Apaza::::::6/11/2019 12:00:00 AM::
+59173298575:100011450384431:Fernando:Avalos:male:::::3/6/2016 12:00:00 AM::
+59173298574:100038592472920:Daniel:Asistiri::::::1/1/0001 12:00:00 AM::
+59173298571:100036714442635:Beto:Huanca::::::1/1/0001 12:00:00 AM::
+59173298564:100036566941986:Eliana:Choque:female:::::5/4/2019 12:00:00 AM::
+59173298559:100003166946247:Anelid:Rodriguez:female:Ciudad La Paz, La Paz, Bolivia:La Paz, Bolivia:Engaged::1/23/2019 12:00:00 AM::
+59173298557:100025867155006:Rosa:Cauna:female:::::5/15/2018 12:00:00 AM::
+59173298556:100035191177410:Nayhely:Quispe:female:::::1/1/0001 12:00:00 AM::
+59173298552:100028191737295:Alan:Flores:male:::::7/11/2019 12:00:00 AM::
+59173298548:1646502903:Isabel:Bel:female:Ciudad La Paz, La Paz, Bolivia::::6/27/2019 12:00:00 AM::04/11
+59173298546:100037825280052:Efrain Esther:Ancasi Montevilla::::::6/12/2019 12:00:00 AM::
+59173298545:100029134387881:Ernesto:Chambi:male::Cochabamba, Bolivia::Servicio de Trasporte Público:7/2/2019 12:00:00 AM::
+59173298544:100036770594017:William:Mamani::La Paz, Bolivia:Caranavi:Single::7/11/2019 12:00:00 AM::
+59173298534:100011856815621:Luci:Aduviri:female:::::9/9/2018 12:00:00 AM::
+59173298532:100006495641408:Sandra:Rivas:female:La Paz, Bolivia:La Paz, Bolivia::Belcorp:12/12/2018 12:00:00 AM::
+59173298529:100039328050919:Rene:Hilari::La Paz, Bolivia:La Paz, Bolivia::VAN SRL:7/13/2019 12:00:00 AM::
+59173298526:100022997310140:Edith:Orozco:female:::::11/8/2017 12:00:00 AM::
+59173298524:100018108632724:Alfonso:Laura:male:::::12/25/2017 12:00:00 AM::
+59173298523:100006665352698:Florencia:Yanarico:female:La Paz, Bolivia:Ciudad La Paz, La Paz, Bolivia:Single:amo el estudio pero el face se interpone entre nosotros xD:7/14/2019 12:00:00 AM::
+59173298521:100025990057899:Antonia:Vargas Poma:female:::::1/23/2019 12:00:00 AM::
+59173298520:100010752467186:Miguel Angel:Savedra:male:Ciudad La Paz, La Paz, Bolivia:La Paz, Bolivia:::12/8/2015 12:00:00 AM::
+59173298518:100025310543685:Jhonny:Aguilar:male:La Paz, Bolivia::Single::4/13/2018 12:00:00 AM::
+59173298515:100000019535260:Marizol Maria:Salas Lucia:::::BancoSol:4/22/2019 12:00:00 AM::
+59173298513:100021880245574:Alegandra:Castillo Uruña:female:::::9/13/2017 12:00:00 AM::
+59173298509:100028101394559:Diego E:Ede:male:::::1/1/0001 12:00:00 AM::
+59173298504:100012207483384:Erika:Mamani:female:::::6/24/2019 12:00:00 AM::
+59173301493:100038589484620:Tauro:Fuego::::::7/14/2019 12:00:00 AM::
+59173301480:100033415940326:Zuñiga:Paco:female:Buenos Aires, Argentina:Potosí, Bolivia:::1/31/2019 12:00:00 AM::
+59173301473:100034928647260:Fidel:Che:male:::::3/19/2019 12:00:00 AM::
+59173301463:100030485088819:Alan:Huanca:male:::::12/7/2018 12:00:00 AM::
+59173301461:100032185292813:Jesus:Murillo:male:La Paz, Bolivia:Caranavi:::6/24/2019 12:00:00 AM::
+59173301460:100017017210039:Betty:Cuba Callisaya:female:La Paz, Bolivia:La Paz, Bolivia::El Comercio:7/15/2019 12:00:00 AM::
+59173301455:100037611780632:Gabriel:Mamani::::::5/31/2019 12:00:00 AM::
+59173301446:100027842678331:Bertha:Flores:female:::::7/15/2019 12:00:00 AM::
+59173301439:100022082880700:Kati:Choque:female::Oruro, Bolivia:::7/13/2019 12:00:00 AM::
+59173301434:100039312992488:Belen:Estrada::::::1/1/0001 12:00:00 AM::
+59173301421:100033558424313:Erik:Puma:male:La Paz, Bolivia::::4/19/2019 12:00:00 AM::
+59173301418:100029949287427:Yhordy:Alba:male:::::2/4/2019 12:00:00 AM::
+59173301417:100027958389505:Verivet:Avila:female:La Paz, Bolivia:Ciudad Sucre, Chuquisaca, Bolivia:Widowed:Banco Mercantil Santa Cruz S.A.:9/18/2018 12:00:00 AM::
+59173301414:100038456614377:Arturo:Martines::::::6/21/2019 12:00:00 AM::
+59173301411:100023873984784:Jorge Luiz:Quecaño:male:::::7/13/2019 12:00:00 AM::
+59173301402:100034974370543:Nihan:Guevarra:female:::::1/1/0001 12:00:00 AM::
+59173301394:100035084991790:Ruben:Chambi:male:::Married::4/7/2019 12:00:00 AM::
+59173301391:100036820832610:Mike:Stwarth::Ciudad Cochabamba, Cochabamba, Bolivia:Ciudad Cochabamba, Cochabamba, Bolivia:::5/11/2019 12:00:00 AM::
+59173301380:100038440120064:Lidia:Callata::::::1/1/0001 12:00:00 AM::
+59173301378:100031021276176:Fernando:Mbl:male:Pura Pura, La Paz, Bolivia::::5/1/2019 12:00:00 AM::
+59173301375:100023868094542:Soledad:Condori:female:La Paz, Bolivia:Ciudad La Paz, La Paz, Bolivia:Single::5/31/2019 12:00:00 AM::
+59173301374:100008019876953:Gonzalo:Ojeda:female:::::7/3/2019 12:00:00 AM::
+59173301373:100011925408676:Rosa:Cuile:female:Mapiri:Santa Rosa, La Paz, Bolivia:::1/1/2019 12:00:00 AM::
+59173301367:100008319800979:Ronaldo:Muñoz Quispe:male:El Alto:La Paz, Bolivia::Yo Amo El Fútbol :1/27/2019 12:00:00 AM::
+59173301364:100032756593380:Lizzy Nicol:QC:female:::::1/13/2019 12:00:00 AM::
+59173301361:100020049665874:Candido:GO:male:::::7/19/2017 12:00:00 AM::
+59173301359:100030499037215:Wilfredo:Ticona:male:::::1/1/0001 12:00:00 AM::
+59173301358:100026616862953:Alex:Mendoza:male:::::6/12/2019 12:00:00 AM::
+59173301355:100037316843592:Ronal C:Choque::Uyuni:Uyuni::Trabajo las 24 hrs en tu corazon:6/2/2019 12:00:00 AM::
+59173301350:100019090718290:Alex:Lopez:male:::::7/1/2019 12:00:00 AM::
+59173301349:100031559050617:Mijan:Diaz:female:Guayaquil, Ecuador:Rosario, Santa Fe:Single:Yo soy tu primer Amor:12/21/2018 12:00:00 AM::
+59173301341:100015516912630:Ariel:Tumiri:male:::::3/2/2019 12:00:00 AM::
+59173301337:100022526404536:Nylka:Mamani:female:::::6/10/2019 12:00:00 AM::
+59173301332:100027757112478:Wilson:Sissá:male:Cochabamba, Bolivia::::7/14/2019 12:00:00 AM::
+59173301317:100032814641249:Limber:Flores:male:::::6/19/2019 12:00:00 AM::
+59173301315:100038152633797:Jenry:Lopez::Uyuni::In a relationship:Trabajo las 24 hrs en tu corazon:7/13/2019 12:00:00 AM::
+59173301311:100015345047498:Milton:Lopez:male:La Paz, Bolivia:La Paz, Bolivia::Trabajo las 24 hrs en tu corazon:4/10/2019 12:00:00 AM::
+59173301304:100033483317588:Jesus Honberto:Orellana:male:::::2/1/2019 12:00:00 AM::
+59173301300:100023168013531:Samuel:Soliz:male:La Paz, Bolivia::::6/2/2019 12:00:00 AM::
+59173301288:100039451474801:Maricel:Garcia Copa::::::7/14/2019 12:00:00 AM::
+59173301283:100034483451986:Richarsito:Dara:male:La Paz, Bolivia::::7/11/2019 12:00:00 AM::
+59173301279:100029002642850:Julio Walter:Martinez Lopez:male:Uyuni::::12/7/2018 12:00:00 AM::
+59173301276:100039077873465:Wirson:Zacarias::::::1/1/0001 12:00:00 AM::
+59173301274:100030065720919:Marze:Chambi:male:::::11/13/2018 12:00:00 AM::
+59173301266:100029129600216:Danitza Judith:Blanco Mamani:female:Oruro, Bolivia:Oruro, Bolivia:Engaged:Trabajo las 24 hrs en tu corazon:7/4/2019 12:00:00 AM::
+59173301249:100028261470221:Robin:Lipa:male:::::10/27/2018 12:00:00 AM::
+59173301247:100034812977912:Gustavo:Barao:male:::::7/10/2019 12:00:00 AM::
+59173301238:100032895107615:Daniela:Carrasco:female:La Paz, Bolivia::::7/12/2019 12:00:00 AM::
+59173301237:100033593221548:Zenobio:Sausa Colque:male:Puerto Rurre, Pando, Bolivia:Pascana San Borja, El Beni, Bolivia:::7/3/2019 12:00:00 AM::
+59173301232:100033854313898:Pedro:Hiza Nate:male:::::6/2/2019 12:00:00 AM::
+59173301231:100037008692005:Reynaldo:Arapuca::::::5/15/2019 12:00:00 AM::
+59173301230:100004197491465:Milton:Castro:male:Ciudad La Paz, La Paz, Bolivia:Ciudad La Paz, La Paz, Bolivia:Single:São Paulo, Brazil:8/26/2018 12:00:00 AM::
+59173301229:100017785539263:Jose:Apo:male:La Paz, Bolivia:Palos Blancos::Universidad Mayor de San Simón:7/12/2019 12:00:00 AM::
+59173301218:100028463555655:Rosa:Quispe:female:::::6/23/2019 12:00:00 AM::
+59173301212:100026752745785:Keny:Solomonte:male:::::6/9/2018 12:00:00 AM::
+59173301206:100037099073922:Norlando Rodríguez:Rodriguez::::::1/1/0001 12:00:00 AM::
